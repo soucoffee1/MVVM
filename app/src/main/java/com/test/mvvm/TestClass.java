@@ -8,4 +8,8 @@ public class TestClass {
     public void add(){
         System.out.println("test");
     }
+
+    public void sub(){
+        System.out.println("sub");
+    }
 }
