@@ -12,4 +12,7 @@ public class TestClass {
     public void sub(){
         System.out.println("sub");
     }
+    public void mul(){
+        System.out.println("sub");
+    }
 }
